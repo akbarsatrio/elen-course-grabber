@@ -1,6 +1,5 @@
 # Elen Course Grabber
-<hr>
-<h3>Instalasi</h3>
+<h3>Instalasi untuk Linux</h3>
 
 1.  Install PhantomJS di Lokal
     - Download Phantom JS
