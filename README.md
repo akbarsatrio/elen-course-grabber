@@ -1,7 +1,5 @@
 # Elen Course Grabber
 <hr>
-## Instalasi
-
 1.  Install PhantomJS di Lokal
     - Download Phantom JS
     `wget https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-2.1.1-linux-x86_64.tar.bz2`
