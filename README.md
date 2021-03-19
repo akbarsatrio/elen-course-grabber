@@ -1,5 +1,6 @@
-#Elen Course Grabber
-####Instalasi
+# Elen Course Grabber
+<hr>
+#### Instalasi
 
 1.  Install PhantomJS di Lokal
     - Download Phantom JS
